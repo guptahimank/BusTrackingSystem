@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BusTrackingSystem</string>
+    <string name="title_activity_bus_info_details">bus_info_details</string>
+    <string name="title_activity_route_info_details">route_info_details</string>
+    <string name="title_activity_bus_status_details">bus_status_details</string>
+    <string name="title_activity_bus_info1">bus_info1</string>
+    <string name="title_activity_bus_status">bus_status</string>
+    <string name="title_activity_route_info">route_info</string>
+</resources>
